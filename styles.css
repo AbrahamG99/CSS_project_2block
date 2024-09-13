@@ -1,0 +1,28 @@
+.titulo {
+    background-color: darkblue;
+    width: fit-content;
+    font-family: Arial, Helvetica, sans-serif;
+    border: dotted;
+}
+p{
+
+    color: #db4b2c ;
+    border: 15px dashed blue;
+    width: 300px;
+    font-size: 20px;
+}
+#subtitulo {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+color: maroon;
+}
+.link-a-google{
+    background-color: chartreuse;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: gold;
+}
